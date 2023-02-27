@@ -4791,3 +4791,1063 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.02.27-15.53.05:303][607]LogContentValidation: Display: Validating StaticMesh /Game/ImportedAssets/Ship_Rudder_FBX_Tube.Ship_Rudder_FBX_Tube
 [2023.02.27-15.53.05:303][607]LogContentValidation: Display: Validating StaticMesh /Game/ImportedAssets/Ship_Rudder_FBX_Cylinder.Ship_Rudder_FBX_Cylinder
 [2023.02.27-15.53.11:223][993]LogSlate: Window 'shipWheelBP' being destroyed
+[2023.02.27-15.55.23:882][643]LogEditorViewport: Clicking on Actor (LMB): torchBP_C (torchBP3)
+[2023.02.27-15.55.57:300][283]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.02.27-15.55.57:300][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-15.55.57:308][283]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.02.27-15.55.57:308][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-15.56.01:733][797]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2023.02.27-15.56.01:733][797]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-15.56.02:717][903]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.02.27-15.56.02:717][903]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2023.02.27-15.56.02:717][903]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-15.56.08:830][534]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content' is outside repository at 'V:/Unreal-CW2-Git2/ChallengeWeek2'
+[2023.02.27-15.56.08:830][534]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'V:/Unreal-CW2-Git2/ChallengeWeek2'
+[2023.02.27-15.56.08:830][534]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'V:/Unreal-CW2-Git2/ChallengeWeek2'
+[2023.02.27-15.56.08:830][534]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at 'V:/Unreal-CW2-Git2/ChallengeWeek2'
+[2023.02.27-15.56.08:830][534]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'V:/Unreal-CW2-Git2/ChallengeWeek2'
+[2023.02.27-15.56.08:830][534]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'V:/Unreal-CW2-Git2/ChallengeWeek2'
+[2023.02.27-15.56.08:830][534]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'V:/Unreal-CW2-Git2/ChallengeWeek2'
+[2023.02.27-15.56.08:830][534]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'V:/Unreal-CW2-Git2/ChallengeWeek2'
+[2023.02.27-15.56.08:830][534]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'V:/Unreal-CW2-Git2/ChallengeWeek2'
+[2023.02.27-15.56.08:830][534]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'V:/Unreal-CW2-Git2/ChallengeWeek2'
+[2023.02.27-15.56.08:830][534]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'V:/Unreal-CW2-Git2/ChallengeWeek2'
+[2023.02.27-15.56.08:830][534]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'V:/Unreal-CW2-Git2/ChallengeWeek2'
+[2023.02.27-15.56.08:830][534]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'V:/Unreal-CW2-Git2/ChallengeWeek2'
+[2023.02.27-15.56.08:830][534]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'V:/Unreal-CW2-Git2/ChallengeWeek2'
+[2023.02.27-15.56.08:830][534]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'V:/Unreal-CW2-Git2/ChallengeWeek2'
+[2023.02.27-15.56.08:831][534]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'V:/Unreal-CW2-Git2/ChallengeWeek2'
+[2023.02.27-15.56.08:831][534]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'V:/Unreal-CW2-Git2/ChallengeWeek2'
+[2023.02.27-15.56.08:831][534]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'V:/Unreal-CW2-Git2/ChallengeWeek2'
+[2023.02.27-15.56.08:831][534]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'V:/Unreal-CW2-Git2/ChallengeWeek2'
+[2023.02.27-15.56.08:831][534]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'V:/Unreal-CW2-Git2/ChallengeWeek2'
+[2023.02.27-15.56.08:831][534]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'V:/Unreal-CW2-Git2/ChallengeWeek2'
+[2023.02.27-15.56.08:831][534]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'V:/Unreal-CW2-Git2/ChallengeWeek2'
+[2023.02.27-15.56.08:831][534]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'V:/Unreal-CW2-Git2/ChallengeWeek2'
+[2023.02.27-15.56.08:831][534]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'V:/Unreal-CW2-Git2/ChallengeWeek2'
+[2023.02.27-15.56.08:831][534]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'V:/Unreal-CW2-Git2/ChallengeWeek2'
+[2023.02.27-15.56.08:831][534]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'V:/Unreal-CW2-Git2/ChallengeWeek2'
+[2023.02.27-15.56.09:011][534]EditorErrors: Warning: No assets to check in!
+[2023.02.27-15.59.02:276][981]Cmd: DELETE
+[2023.02.27-15.59.02:276][981]Cmd: ACTOR DELETE
+[2023.02.27-15.59.02:280][981]LogEditorActor: Deleted Actor: torchBP_C
+[2023.02.27-15.59.02:338][981]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2023.02.27-15.59.02:371][981]LogEditorActor: Deleted 1 Actors (0.096 secs)
+[2023.02.27-15.59.03:560][123]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Steam_Lit3)
+[2023.02.27-15.59.04:415][222]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Steam_Lit3)
+[2023.02.27-15.59.04:860][274]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Steam_Lit3)
+[2023.02.27-15.59.05:805][385]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Steam_Lit2)
+[2023.02.27-15.59.06:521][468]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Steam_Lit2)
+[2023.02.27-15.59.09:999][883]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Steam_Lit)
+[2023.02.27-15.59.11:242][ 29]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Steam_Lit)
+[2023.02.27-15.59.13:018][240]LogEditorViewport: Clicking on Actor (LMB): torchBP_C (torchBP2)
+[2023.02.27-15.59.28:804][116]LogEditorViewport: Clicking on Actor (LMB): torchBP_C (torchBP2)
+[2023.02.27-15.59.30:930][366]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2023.02.27-15.59.32:751][579]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Steam_Lit2)
+[2023.02.27-15.59.49:499][580]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.27-15.59.49:510][580]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.27-15.59.49:510][580]PIE: New page: PIE session: HCLevel (27 Feb 2023, 15:59:49)
+[2023.02.27-15.59.49:536][580]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_HCLevel
+[2023.02.27-15.59.49:557][580]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020630s)
+[2023.02.27-15.59.49:558][580]LogAIModule: Creating AISystem for world HCLevel
+[2023.02.27-15.59.49:559][580]LogPlayLevel: PIE: World Init took: (0.001821s)
+[2023.02.27-15.59.49:559][580]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/HCLevel.HCLevel to /Game/UEDPIE_0_HCLevel.HCLevel (0.022691s)
+[2023.02.27-15.59.49:629][580]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2023.02.27-15.59.49:644][580]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2023.02.27-15.59.49:644][580]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.27-15.59.49:644][580]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.27-15.59.49:644][580]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.27-15.59.49:644][580]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.27-15.59.49:644][580]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.27-15.59.49:644][580]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.27-15.59.49:644][580]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.27-15.59.49:644][580]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.27-15.59.49:645][580]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.27-15.59.49:645][580]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.27-15.59.49:645][580]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.27-15.59.49:645][580]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.27-15.59.49:649][580]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.27-15.59.49:649][580]LogAudioMixer: Display: 1: FrontRight
+[2023.02.27-15.59.49:674][580]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.02.27-15.59.49:674][580]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.27-15.59.49:674][580]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.27-15.59.49:674][580]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.27-15.59.49:674][580]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.27-15.59.49:674][580]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.27-15.59.49:674][580]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.27-15.59.49:675][580]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.27-15.59.49:675][580]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.27-15.59.49:675][580]LogInit: FAudioDevice initialized.
+[2023.02.27-15.59.49:676][580]LogAudio: Display: Audio Device (ID: 25) registered with world 'HCLevel'.
+[2023.02.27-15.59.49:684][580]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.02.27-15.59.49:687][580]LogWorld: Bringing World /Game/UEDPIE_0_HCLevel.HCLevel up for play (max tick rate 0) at 2023.02.27-15.59.49
+[2023.02.27-15.59.49:688][580]LogWorld: Bringing up level for play took: 0.003679
+[2023.02.27-15.59.49:688][580]LogOnline: OSS: Creating online subsystem instance for: :Context_41
+[2023.02.27-15.59.49:691][580]PIE: Server logged in
+[2023.02.27-15.59.49:691][580]PIE: Play in editor total start time 0.187 seconds.
+[2023.02.27-15.59.54:671][168]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.27-15.59.54:671][168]LogWorld: BeginTearingDown for /Game/UEDPIE_0_HCLevel
+[2023.02.27-15.59.54:671][168]LogWorld: UWorld::CleanupWorld for HCLevel, bSessionEnded=true, bCleanupResources=true
+[2023.02.27-15.59.54:672][168]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-15.59.54:683][168]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.27-15.59.54:693][168]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-15.59.54:708][168]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.27-15.59.54:709][168]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.27-15.59.54:710][168]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.27-15.59.54:713][168]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.27-15.59.54:715][168]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2023.02.27-15.59.54:746][169]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2023.02.27-15.59.55:447][250]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Steam_Lit3)
+[2023.02.27-15.59.56:061][320]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Steam_Lit3)
+[2023.02.27-15.59.58:023][548]LogEditorViewport: Clicking on Actor (LMB): torchBP_C (torchBP3)
+[2023.02.27-16.00.07:558][664]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Steam_Lit3)
+[2023.02.27-16.00.09:743][920]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Steam_Lit3)
+[2023.02.27-16.00.10:426][  0]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Steam_Lit3)
+[2023.02.27-16.00.10:898][ 55]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Steam_Lit3)
+[2023.02.27-16.00.11:430][117]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Steam_Lit3)
+[2023.02.27-16.00.12:442][236]LogEditorViewport: Clicking on Actor (LMB): torchBP_C (torchBP3)
+[2023.02.27-16.00.15:076][546]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Steam_Lit3)
+[2023.02.27-16.00.15:992][649]LogEditorViewport: Clicking on Actor (LMB): torchBP_C (torchBP2)
+[2023.02.27-16.00.18:398][931]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Steam_Lit3)
+[2023.02.27-16.01.36:777][290]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Steam_Lit3)
+[2023.02.27-16.01.43:955][144]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Steam_Lit3)
+[2023.02.27-16.01.46:840][488]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Steam_Lit)
+[2023.02.27-16.01.48:091][634]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Steam_Lit2)
+[2023.02.27-16.01.49:885][845]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Steam_Lit2)
+[2023.02.27-16.01.59:584][970]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.02.27-16.02.06:812][826]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.02.27-16.02.12:559][501]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2023.02.27-16.02.17:213][ 47]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.27-16.02.17:222][ 47]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.27-16.02.17:222][ 47]PIE: New page: PIE session: HCLevel (27 Feb 2023, 16:02:17)
+[2023.02.27-16.02.17:246][ 47]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_HCLevel
+[2023.02.27-16.02.17:267][ 47]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020585s)
+[2023.02.27-16.02.17:268][ 47]LogAIModule: Creating AISystem for world HCLevel
+[2023.02.27-16.02.17:268][ 47]LogPlayLevel: PIE: World Init took: (0.001346s)
+[2023.02.27-16.02.17:268][ 47]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/HCLevel.HCLevel to /Game/UEDPIE_0_HCLevel.HCLevel (0.022131s)
+[2023.02.27-16.02.17:291][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.02.27-16.02.17:307][ 47]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2023.02.27-16.02.17:308][ 47]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.27-16.02.17:308][ 47]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.27-16.02.17:308][ 47]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.27-16.02.17:308][ 47]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.27-16.02.17:308][ 47]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.27-16.02.17:308][ 47]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.27-16.02.17:308][ 47]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.27-16.02.17:308][ 47]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.27-16.02.17:308][ 47]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.27-16.02.17:308][ 47]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.27-16.02.17:308][ 47]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.27-16.02.17:308][ 47]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.27-16.02.17:313][ 47]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.27-16.02.17:313][ 47]LogAudioMixer: Display: 1: FrontRight
+[2023.02.27-16.02.17:337][ 47]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.02.27-16.02.17:337][ 47]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.27-16.02.17:337][ 47]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.27-16.02.17:337][ 47]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.27-16.02.17:337][ 47]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.27-16.02.17:338][ 47]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.27-16.02.17:338][ 47]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.27-16.02.17:339][ 47]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.27-16.02.17:339][ 47]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.27-16.02.17:339][ 47]LogInit: FAudioDevice initialized.
+[2023.02.27-16.02.17:339][ 47]LogAudio: Display: Audio Device (ID: 26) registered with world 'HCLevel'.
+[2023.02.27-16.02.17:345][ 47]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.02.27-16.02.17:347][ 47]LogWorld: Bringing World /Game/UEDPIE_0_HCLevel.HCLevel up for play (max tick rate 0) at 2023.02.27-16.02.17
+[2023.02.27-16.02.17:350][ 47]LogWorld: Bringing up level for play took: 0.003345
+[2023.02.27-16.02.17:350][ 47]LogOnline: OSS: Creating online subsystem instance for: :Context_42
+[2023.02.27-16.02.17:351][ 47]PIE: Server logged in
+[2023.02.27-16.02.17:352][ 47]PIE: Play in editor total start time 0.135 seconds.
+[2023.02.27-16.02.23:531][780]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.27-16.02.23:531][780]LogWorld: BeginTearingDown for /Game/UEDPIE_0_HCLevel
+[2023.02.27-16.02.23:531][780]LogWorld: UWorld::CleanupWorld for HCLevel, bSessionEnded=true, bCleanupResources=true
+[2023.02.27-16.02.23:532][780]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-16.02.23:542][780]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.27-16.02.23:579][780]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-16.02.23:595][780]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.27-16.02.23:595][780]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.27-16.02.23:596][780]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.27-16.02.23:599][780]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.27-16.02.23:602][780]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2023.02.27-16.02.23:636][781]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2023.02.27-16.02.26:519][111]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube9)
+[2023.02.27-16.02.36:519][268]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2023.02.27-16.02.42:220][943]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Steam_Lit)
+[2023.02.27-16.02.45:960][386]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Steam_Lit2)
+[2023.02.27-16.02.46:637][464]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Steam_Lit2)
+[2023.02.27-16.02.47:199][530]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Steam_Lit2)
+[2023.02.27-16.02.47:737][593]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Steam_Lit2)
+[2023.02.27-16.02.48:355][666]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Steam_Lit2)
+[2023.02.27-16.02.50:275][894]Cmd: SELECT NONE
+[2023.02.27-16.02.50:912][970]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Steam_Lit2)
+[2023.02.27-16.02.51:439][ 30]Cmd: SELECT NONE
+[2023.02.27-16.02.53:420][266]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube12)
+[2023.02.27-16.03.01:921][260]Cmd: TRANSACTION UNDO
+[2023.02.27-16.03.01:921][260]LogEditorTransaction: Undo Move Actors
+[2023.02.27-16.03.10:588][239]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Steam_Lit2)
+[2023.02.27-16.03.46:505][413]MapCheck: New page: Map Check
+[2023.02.27-16.03.46:517][413]LightingResults: New page: Lighting Build - 27 Feb 2023, 16:03:46
+[2023.02.27-16.03.46:588][413]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2023.02.27-16.03.46:676][413]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2023.02.27-16.03.46:689][413]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2023.02.27-16.03.47:220][413]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2023.02.27-16.03.47:220][413]LogSwarmInterface: [TryOpenConnection] Local Process ID is 12588
+[2023.02.27-16.03.49:768][413]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2023.02.27-16.03.49:768][413]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2023.02.27-16.03.49:768][413]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2023.02.27-16.03.49:768][413]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2023.02.27-16.03.49:768][413]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2023.02.27-16.03.49:951][413]LogEditorBuildUtils: Build time 0:03
+[2023.02.27-16.03.49:963][413]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_42 in PCD3D_SM5, Default, SM5 (DDC key hash: CA9FCCD7641DE2EFA0E1F12261FDFB3EF7942F78), compiling. 
+[2023.02.27-16.03.49:967][413]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.02.27-16.03.49:969][413]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_42 in PCD3D_SM5, Default, SM5 (DDC key hash: A8B1398A12D77690DB872D8B8055F44AE79D6CD6), compiling. 
+[2023.02.27-16.03.49:972][413]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.02.27-16.03.49:976][413]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2023.02.27-16.03.49:976][413]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2023.02.27-16.03.49:976][413]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2023.02.27-16.03.50:016][414]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Metal_Gold in PCD3D_SM5, Default, SM5 (DDC key hash: 8DFC1AB3AA7276CE6F9ED7EC61A92F7C56221617), compiling. 
+[2023.02.27-16.03.50:023][414]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.02.27-16.03.50:024][414]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2023.02.27-16.03.50:024][414]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2023.02.27-16.03.50:024][414]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.02.27-16.03.50:024][414]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Metal_Gold in PCD3D_SM5, Default, SM5 (DDC key hash: 7BF437C3F4F73533DCC3253CD25D1C4DB6B9DE2A), compiling. 
+[2023.02.27-16.03.50:028][414]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.02.27-16.03.51:403][415]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2023.02.27-16.03.51:403][415]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.02.27-16.03.51:403][415]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2023.02.27-16.03.51:403][415]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.02.27-16.03.51:403][415]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.27-16.03.51:403][415]LogShaderCompilers: Display: Total job queries 1677, among them cache hits 1299 (77.46%)
+[2023.02.27-16.03.51:403][415]LogShaderCompilers: Display: Tracking 368 distinct input hashes that result in 123 distinct outputs (33.42%)
+[2023.02.27-16.03.51:403][415]LogShaderCompilers: Display: RAM used: 0.71 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.09%
+[2023.02.27-16.03.51:403][415]LogShaderCompilers: Display: ================================================
+[2023.02.27-16.03.51:868][432]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2023.02.27-16.03.53:064][488]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.02.27-16.03.53:065][488]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HCLevel" FILE="V:/Unreal-CW2-Git2/ChallengeWeek2/CW2/Saved/Autosaves/Game/HCLevel_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.02.27-16.03.53:126][488]LogSavePackage: Moving 'V:/Unreal-CW2-Git2/ChallengeWeek2/CW2/Saved/HCLevel_Auto29D1C36AA4587E96C06362EACBD4B4F15.tmp' to 'V:/Unreal-CW2-Git2/ChallengeWeek2/CW2/Saved/Autosaves/Game/HCLevel_Auto2.umap'
+[2023.02.27-16.03.53:128][488]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/HCLevel' took 0.083
+[2023.02.27-16.03.53:129][488]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.083
+[2023.02.27-16.03.57:372][862]Job is a success!
+[2023.02.27-16.03.57:609][863]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.060s
+[2023.02.27-16.03.57:609][863]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2023.02.27-16.03.57:609][863]LogVolumetricLightmapImport:      BrickData (all levels) 0.1Mb (trimmed 0.4Mb due to 0.010000 MinBrickError)
+[2023.02.27-16.03.57:609][863]LogVolumetricLightmapImport:      Bricks at depth
+[2023.02.27-16.03.57:610][863]LogVolumetricLightmapImport:          0: 3.8% covering 100.0% of volume
+[2023.02.27-16.03.57:610][863]LogVolumetricLightmapImport:          1: 23.1% covering 9.4% of volume
+[2023.02.27-16.03.57:610][863]LogVolumetricLightmapImport:          2: 73.1% covering 0.5% of volume
+[2023.02.27-16.03.57:610][863]LogVolumetricLightmapImport:      Bricks in each level
+[2023.02.27-16.03.57:610][863]LogVolumetricLightmapImport:          HCLevel 			 26 bricks 	 100.0% (Persistent Level)
+[2023.02.27-16.03.57:905][863]LogTexture: Display: Building textures: SkyOcclusion0_1 (OODLE_AutoDXT, 1024X512)
+[2023.02.27-16.03.57:906][863]LogTexture: Display: Building textures: HQ_Lightmap0_1 (OODLE_AutoDXT, 1024X1024)
+[2023.02.27-16.03.57:906][863]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (OODLE_DXT1, 1024X1024)
+[2023.02.27-16.03.57:906][863]LogTexture: Display: Building textures: SkyOcclusion0_2 (OODLE_AutoDXT, 256X128)
+[2023.02.27-16.03.57:906][863]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (OODLE_DXT1, 256X256)
+[2023.02.27-16.03.57:906][863]LogTexture: Display: Building textures: HQ_Lightmap0_2 (OODLE_AutoDXT, 256X256)
+[2023.02.27-16.03.57:906][863]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.27-16.03.57:906][863]LogTexture: Display: Building textures: SkyOcclusion0_3 (OODLE_AutoDXT, 256X128)
+[2023.02.27-16.03.57:906][863]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.27-16.03.57:906][863]LogTexture: Display: Building textures: HQ_Lightmap0_3 (OODLE_AutoDXT, 256X256)
+[2023.02.27-16.03.57:906][863]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (OODLE_DXT1, 256X256)
+[2023.02.27-16.03.57:906][863]LogTexture: Display: Building textures: SkyOcclusion0_4 (OODLE_AutoDXT, 64X32)
+[2023.02.27-16.03.57:906][863]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.27-16.03.57:906][863]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (OODLE_DXT1, 64X64)
+[2023.02.27-16.03.57:906][863]LogTexture: Display: Building textures: HQ_Lightmap0_4 (OODLE_AutoDXT, 64X64)
+[2023.02.27-16.03.57:906][863]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2023.02.27-16.03.57:906][863]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 256X64)
+[2023.02.27-16.03.57:906][863]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 512X64)
+[2023.02.27-16.03.57:906][863]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 1024X256)
+[2023.02.27-16.03.57:936][863]Lightmass on BCUD2-009319: 5.26 sec total, 223 ms importing, 44 ms setup, 516 ms photons, 4.40 sec processing, 0 ms extra exporting [58/58 mappings]. Threads: 30.8 sec total, 15.2 sec processing.
+[2023.02.27-16.03.57:944][863]LogStaticLightingSystem: HCLevel_BuiltData storing lightmap data for 58 meshes in 6 LightmapResourceClusters (9.7 Meshes per cluster).
+[2023.02.27-16.03.57:957][863]LogMaterial: Display: Material /Game/landscapeMat.landscapeMat needed to have new flag set bUsedWithStaticLighting !
+[2023.02.27-16.03.57:963][863]LogMaterial: Display: Missing cached shadermap for landscapeMat in PCD3D_SM5, Default, SM5 (DDC key hash: B262825AD2BB3B3993892A90796EBCC5317562A6), compiling. 
+[2023.02.27-16.03.58:017][863]LogShaderCompilers: Display: Submitted 9 shader compile jobs with 'Low' priority
+[2023.02.27-16.03.58:019][863]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_49 in PCD3D_SM5, Default, SM5 (DDC key hash: FC1ABB29E97C49629D356A16347DCF6596F086A7), compiling. 
+[2023.02.27-16.03.58:021][863]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_41 in PCD3D_SM5, Default, SM5 (DDC key hash: 45A3835767955FADBC703270FA408E3C3D445F83), compiling. 
+[2023.02.27-16.03.58:022][863]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_50 in PCD3D_SM5, Default, SM5 (DDC key hash: 3AE0A05EB8D470D1DA0C4BDE808F454950BC6E67), compiling. 
+[2023.02.27-16.03.58:024][863]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2023.02.27-16.03.58:024][863]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2023.02.27-16.03.58:024][863]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2023.02.27-16.03.58:024][863]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'Low' priority
+[2023.02.27-16.03.58:024][863]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_50 in PCD3D_SM5, Default, SM5 (DDC key hash: D57A593583E12932EF1DDD9B14AAAD7099F9979C), compiling. 
+[2023.02.27-16.03.58:025][863]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_49 in PCD3D_SM5, Default, SM5 (DDC key hash: 2D36F3504CC8FB20236D2B5407093D31359BC6DE), compiling. 
+[2023.02.27-16.03.58:097][863]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.02.27-16.03.58:097][863]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2023.02.27-16.03.58:097][863]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.27-16.03.58:097][863]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Normal' priority
+[2023.02.27-16.03.58:102][863]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2023.02.27-16.03.58:123][863]LogStaticLightingSystem: Illumination: 11.5 sec (193 ms encoding lightmaps, 44 ms encoding shadowmaps)
+[2023.02.27-16.03.58:124][863]LogStaticLightingSystem: Lightmap texture memory:  3.0 MB (3.0 MB streaming, 0.0 MB non-streaming), 8 textures
+[2023.02.27-16.03.58:124][863]LogStaticLightingSystem: Shadowmap texture memory: 1.4 MB (1.4 MB streaming, 0.0 MB non-streaming), 4 textures
+[2023.02.27-16.04.03:780][863]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2023.02.27-16.04.03:780][863]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.27-16.04.03:780][863]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2023.02.27-16.04.03:780][863]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2023.02.27-16.04.03:780][863]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2023.02.27-16.04.03:780][863]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.02.27-16.04.03:780][863]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2023.02.27-16.04.03:780][863]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.02.27-16.04.03:780][863]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2023.02.27-16.04.03:780][863]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.02.27-16.04.03:780][863]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2023.02.27-16.04.03:780][863]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.27-16.04.03:780][863]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2023.02.27-16.04.03:780][863]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.27-16.04.03:780][863]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2023.02.27-16.04.03:780][863]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.27-16.04.03:780][863]DumpUnbuiltLightIteractions
+[2023.02.27-16.04.03:781][863]Lights with unbuilt interactions: 0
+[2023.02.27-16.04.03:781][863]
+[2023.02.27-16.04.03:781][863]Primitives with unbuilt interactions: 0
+[2023.02.27-16.04.03:910][863]LogTexture: Display: Building textures: NewReflectionComponentTexture3884DE244CA9D1E5320A11B1C608A293 (BGRA8, 128X128)
+[2023.02.27-16.04.03:945][864]Cmd: MAP CHECK NOTIFYRESULTS
+[2023.02.27-16.04.03:945][864]MapCheck: New page: HCLevel - 27 Feb 2023, 16:04:03
+[2023.02.27-16.04.03:947][864]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.526ms to complete.
+[2023.02.27-16.04.06:080][103]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.27-16.04.06:089][103]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.27-16.04.06:089][103]PIE: New page: PIE session: HCLevel (27 Feb 2023, 16:04:06)
+[2023.02.27-16.04.06:089][103]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_HCLevel
+[2023.02.27-16.04.06:109][103]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019035s)
+[2023.02.27-16.04.06:109][103]LogAIModule: Creating AISystem for world HCLevel
+[2023.02.27-16.04.06:110][103]LogPlayLevel: PIE: World Init took: (0.001142s)
+[2023.02.27-16.04.06:110][103]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/HCLevel.HCLevel to /Game/UEDPIE_0_HCLevel.HCLevel (0.020308s)
+[2023.02.27-16.04.06:131][103]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.02.27-16.04.06:134][103]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2023.02.27-16.04.06:134][103]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.27-16.04.06:134][103]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.27-16.04.06:134][103]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.27-16.04.06:134][103]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.27-16.04.06:134][103]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.27-16.04.06:134][103]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.27-16.04.06:134][103]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.27-16.04.06:134][103]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.27-16.04.06:135][103]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.27-16.04.06:135][103]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.27-16.04.06:135][103]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.27-16.04.06:135][103]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.27-16.04.06:139][103]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.27-16.04.06:139][103]LogAudioMixer: Display: 1: FrontRight
+[2023.02.27-16.04.06:163][103]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.02.27-16.04.06:163][103]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.27-16.04.06:163][103]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.27-16.04.06:163][103]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.27-16.04.06:163][103]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.27-16.04.06:163][103]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.27-16.04.06:163][103]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.27-16.04.06:164][103]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.27-16.04.06:164][103]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.27-16.04.06:164][103]LogInit: FAudioDevice initialized.
+[2023.02.27-16.04.06:164][103]LogAudio: Display: Audio Device (ID: 27) registered with world 'HCLevel'.
+[2023.02.27-16.04.06:173][103]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.02.27-16.04.06:177][103]LogWorld: Bringing World /Game/UEDPIE_0_HCLevel.HCLevel up for play (max tick rate 0) at 2023.02.27-16.04.06
+[2023.02.27-16.04.06:178][103]LogWorld: Bringing up level for play took: 0.003491
+[2023.02.27-16.04.06:178][103]LogOnline: OSS: Creating online subsystem instance for: :Context_43
+[2023.02.27-16.04.06:180][103]PIE: Server logged in
+[2023.02.27-16.04.06:181][103]PIE: Play in editor total start time 0.096 seconds.
+[2023.02.27-16.04.13:355][954]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.27-16.04.13:355][954]LogWorld: BeginTearingDown for /Game/UEDPIE_0_HCLevel
+[2023.02.27-16.04.13:355][954]LogWorld: UWorld::CleanupWorld for HCLevel, bSessionEnded=true, bCleanupResources=true
+[2023.02.27-16.04.13:356][954]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-16.04.13:373][954]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.27-16.04.13:388][954]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-16.04.13:404][954]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.27-16.04.13:404][954]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.27-16.04.13:405][954]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.27-16.04.13:408][954]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.27-16.04.13:411][954]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2023.02.27-16.04.13:442][955]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2023.02.27-16.04.30:666][922]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.27-16.04.30:676][922]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.27-16.04.30:676][922]PIE: New page: PIE session: HCLevel (27 Feb 2023, 16:04:30)
+[2023.02.27-16.04.30:706][922]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_HCLevel
+[2023.02.27-16.04.30:724][922]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018217s)
+[2023.02.27-16.04.30:725][922]LogAIModule: Creating AISystem for world HCLevel
+[2023.02.27-16.04.30:725][922]LogPlayLevel: PIE: World Init took: (0.001126s)
+[2023.02.27-16.04.30:725][922]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/HCLevel.HCLevel to /Game/UEDPIE_0_HCLevel.HCLevel (0.019568s)
+[2023.02.27-16.04.30:752][922]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2023.02.27-16.04.30:761][922]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2023.02.27-16.04.30:761][922]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.27-16.04.30:761][922]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.27-16.04.30:761][922]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.27-16.04.30:761][922]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.27-16.04.30:761][922]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.27-16.04.30:761][922]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.27-16.04.30:761][922]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.27-16.04.30:761][922]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.27-16.04.30:761][922]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.27-16.04.30:761][922]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.27-16.04.30:761][922]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.27-16.04.30:762][922]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.27-16.04.30:766][922]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.27-16.04.30:766][922]LogAudioMixer: Display: 1: FrontRight
+[2023.02.27-16.04.30:788][922]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.02.27-16.04.30:788][922]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.27-16.04.30:788][922]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.27-16.04.30:788][922]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.27-16.04.30:789][922]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.27-16.04.30:789][922]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.27-16.04.30:789][922]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.27-16.04.30:790][922]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.27-16.04.30:790][922]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.27-16.04.30:790][922]LogInit: FAudioDevice initialized.
+[2023.02.27-16.04.30:790][922]LogAudio: Display: Audio Device (ID: 28) registered with world 'HCLevel'.
+[2023.02.27-16.04.30:799][922]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.02.27-16.04.30:803][922]LogWorld: Bringing World /Game/UEDPIE_0_HCLevel.HCLevel up for play (max tick rate 0) at 2023.02.27-16.04.30
+[2023.02.27-16.04.30:804][922]LogWorld: Bringing up level for play took: 0.003821
+[2023.02.27-16.04.30:804][922]LogOnline: OSS: Creating online subsystem instance for: :Context_44
+[2023.02.27-16.04.30:807][922]PIE: Server logged in
+[2023.02.27-16.04.30:808][922]PIE: Play in editor total start time 0.137 seconds.
+[2023.02.27-16.04.32:772][149]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.27-16.04.32:772][149]LogWorld: BeginTearingDown for /Game/UEDPIE_0_HCLevel
+[2023.02.27-16.04.32:772][149]LogWorld: UWorld::CleanupWorld for HCLevel, bSessionEnded=true, bCleanupResources=true
+[2023.02.27-16.04.32:773][149]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-16.04.32:784][149]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.27-16.04.32:793][149]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-16.04.32:810][149]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.27-16.04.32:810][149]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.27-16.04.32:811][149]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.27-16.04.32:814][149]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.27-16.04.32:817][149]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2023.02.27-16.04.32:844][150]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2023.02.27-16.04.35:289][408]MapCheck: New page: Map Check
+[2023.02.27-16.04.35:298][408]LightingResults: New page: Lighting Build - 27 Feb 2023, 16:04:35
+[2023.02.27-16.04.35:305][408]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2023.02.27-16.04.35:307][408]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2023.02.27-16.04.35:307][408]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2023.02.27-16.04.35:308][408]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2023.02.27-16.04.35:308][408]LogSwarmInterface: [TryOpenConnection] Local Process ID is 12588
+[2023.02.27-16.04.40:023][408]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2023.02.27-16.04.40:024][408]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2023.02.27-16.04.40:024][408]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2023.02.27-16.04.40:024][408]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2023.02.27-16.04.40:024][408]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2023.02.27-16.04.40:101][408]LogEditorBuildUtils: Build time 0:04
+[2023.02.27-16.04.40:108][408]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_42 in PCD3D_SM5, Default, SM5 (DDC key hash: ECEB9F434A192811BB64A46F50F1FD5B8756F842), compiling. 
+[2023.02.27-16.04.40:112][408]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_42 in PCD3D_SM5, Default, SM5 (DDC key hash: 02AC09A10EAD520E2190B4AB82EA21A809E2CEDD), compiling. 
+[2023.02.27-16.04.40:642][419]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2023.02.27-16.04.45:971][837]Job is a success!
+[2023.02.27-16.04.46:211][838]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.027s
+[2023.02.27-16.04.46:211][838]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2023.02.27-16.04.46:211][838]LogVolumetricLightmapImport:      BrickData (all levels) 0.1Mb (trimmed 0.4Mb due to 0.010000 MinBrickError)
+[2023.02.27-16.04.46:211][838]LogVolumetricLightmapImport:      Bricks at depth
+[2023.02.27-16.04.46:211][838]LogVolumetricLightmapImport:          0: 4.0% covering 100.0% of volume
+[2023.02.27-16.04.46:211][838]LogVolumetricLightmapImport:          1: 24.0% covering 9.4% of volume
+[2023.02.27-16.04.46:212][838]LogVolumetricLightmapImport:          2: 72.0% covering 0.4% of volume
+[2023.02.27-16.04.46:212][838]LogVolumetricLightmapImport:      Bricks in each level
+[2023.02.27-16.04.46:212][838]LogVolumetricLightmapImport:          HCLevel 			 25 bricks 	 100.0% (Persistent Level)
+[2023.02.27-16.04.46:506][838]LogTexture: Display: Building textures: SkyOcclusion1_1 (OODLE_AutoDXT, 1024X512)
+[2023.02.27-16.04.46:506][838]LogTexture: Display: Building textures: HQ_Lightmap1_1 (OODLE_AutoDXT, 1024X1024)
+[2023.02.27-16.04.46:506][838]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.27-16.04.46:506][838]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (OODLE_DXT1, 1024X1024)
+[2023.02.27-16.04.46:506][838]LogTexture: Display: Building textures: SkyOcclusion1_2 (OODLE_AutoDXT, 256X128)
+[2023.02.27-16.04.46:506][838]LogTexture: Display: Building textures: HQ_Lightmap1_2 (OODLE_AutoDXT, 256X256)
+[2023.02.27-16.04.46:506][838]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (OODLE_DXT1, 256X256)
+[2023.02.27-16.04.46:506][838]LogTexture: Display: Building textures: SkyOcclusion1_3 (OODLE_AutoDXT, 256X128)
+[2023.02.27-16.04.46:506][838]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.27-16.04.46:506][838]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.27-16.04.46:506][838]LogTexture: Display: Building textures: HQ_Lightmap1_3 (OODLE_AutoDXT, 256X256)
+[2023.02.27-16.04.46:507][838]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (OODLE_DXT1, 256X256)
+[2023.02.27-16.04.46:507][838]LogTexture: Display: Building textures: SkyOcclusion1_4 (OODLE_AutoDXT, 64X32)
+[2023.02.27-16.04.46:507][838]LogTexture: Display: Building textures: HQ_Lightmap1_4 (OODLE_AutoDXT, 64X64)
+[2023.02.27-16.04.46:507][838]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (OODLE_DXT1, 64X64)
+[2023.02.27-16.04.46:507][838]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 32X32)
+[2023.02.27-16.04.46:507][838]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 256X64)
+[2023.02.27-16.04.46:507][838]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 512X64)
+[2023.02.27-16.04.46:507][838]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (BGRA8, 1024X256)
+[2023.02.27-16.04.46:539][838]LogStaticLightingSystem: HCLevel_BuiltData storing lightmap data for 58 meshes in 6 LightmapResourceClusters (9.7 Meshes per cluster).
+[2023.02.27-16.04.46:562][838]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.02.27-16.04.46:572][838]Lightmass on BCUD2-009319: 5.35 sec total, 183 ms importing, 107 ms setup, 543 ms photons, 4.43 sec processing, 0 ms extra exporting [58/58 mappings]. Threads: 31.0 sec total, 15.1 sec processing.
+[2023.02.27-16.04.46:581][838]LogStaticLightingSystem: Illumination: 11.2 sec (202 ms encoding lightmaps, 83 ms encoding shadowmaps)
+[2023.02.27-16.04.46:581][838]LogStaticLightingSystem: Lightmap texture memory:  3.0 MB (3.0 MB streaming, 0.0 MB non-streaming), 8 textures
+[2023.02.27-16.04.46:581][838]LogStaticLightingSystem: Shadowmap texture memory: 1.4 MB (1.4 MB streaming, 0.0 MB non-streaming), 4 textures
+[2023.02.27-16.04.47:030][838]DumpUnbuiltLightIteractions
+[2023.02.27-16.04.47:030][838]Lights with unbuilt interactions: 0
+[2023.02.27-16.04.47:030][838]
+[2023.02.27-16.04.47:030][838]Primitives with unbuilt interactions: 0
+[2023.02.27-16.04.47:109][838]LogTexture: Display: Building textures: NewReflectionComponentTexture3884DE244CA9D1E5320A11B1C608A293 (BGRA8, 128X128)
+[2023.02.27-16.04.47:139][839]Cmd: MAP CHECK NOTIFYRESULTS
+[2023.02.27-16.04.47:139][839]MapCheck: New page: HCLevel - 27 Feb 2023, 16:04:47
+[2023.02.27-16.04.47:140][839]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.701ms to complete.
+[2023.02.27-16.04.59:374][196]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.02.27-16.05.27:012][431]LogSlate: Window 'Color Picker' being destroyed
+[2023.02.27-16.05.30:424][797]MapCheck: New page: Map Check
+[2023.02.27-16.05.30:438][797]Cmd: MAP REBUILD ALLVISIBLE
+[2023.02.27-16.05.30:438][797]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2023.02.27-16.05.30:518][797]LogWorld: UWorld::CleanupWorld for HCLevel, bSessionEnded=true, bCleanupResources=false
+[2023.02.27-16.05.30:542][797]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2023.02.27-16.05.30:543][797]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2023.02.27-16.05.30:543][797]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2023.02.27-16.05.30:563][797]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2023.02.27-16.05.30:606][797]LogLevel: Display: Export Material TexCoord Scales took 0.031 seconds.
+[2023.02.27-16.05.30:610][797]TextureStreamingBuild: Display: Build Texture Streaming took 0.004 seconds.
+[2023.02.27-16.05.30:626][797]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.02.27-16.05.30:628][797]LightingResults: New page: Lighting Build - 27 Feb 2023, 16:05:30
+[2023.02.27-16.05.30:634][797]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2023.02.27-16.05.30:636][797]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2023.02.27-16.05.30:636][797]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2023.02.27-16.05.30:637][797]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2023.02.27-16.05.30:637][797]LogSwarmInterface: [TryOpenConnection] Local Process ID is 12588
+[2023.02.27-16.05.35:275][797]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2023.02.27-16.05.35:275][797]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2023.02.27-16.05.35:275][797]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2023.02.27-16.05.35:275][797]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2023.02.27-16.05.35:275][797]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2023.02.27-16.05.35:366][797]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2023.02.27-16.05.35:366][797]MapCheck: New page: HCLevel - 27 Feb 2023, 16:05:35
+[2023.02.27-16.05.35:367][797]MapCheck: Error: WorldInfo_0 Maps need lighting rebuilt 
+[2023.02.27-16.05.35:367][797]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 0.838ms to complete.
+[2023.02.27-16.05.35:369][797]LogEditorBuildUtils: Build time 0:04
+[2023.02.27-16.05.35:633][799]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2023.02.27-16.05.40:384][185]Job is a success!
+[2023.02.27-16.05.40:568][186]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.018s
+[2023.02.27-16.05.40:568][186]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2023.02.27-16.05.40:568][186]LogVolumetricLightmapImport:      BrickData (all levels) 0.1Mb (trimmed 0.4Mb due to 0.010000 MinBrickError)
+[2023.02.27-16.05.40:568][186]LogVolumetricLightmapImport:      Bricks at depth
+[2023.02.27-16.05.40:568][186]LogVolumetricLightmapImport:          0: 3.8% covering 100.0% of volume
+[2023.02.27-16.05.40:568][186]LogVolumetricLightmapImport:          1: 23.1% covering 9.4% of volume
+[2023.02.27-16.05.40:568][186]LogVolumetricLightmapImport:          2: 73.1% covering 0.5% of volume
+[2023.02.27-16.05.40:568][186]LogVolumetricLightmapImport:      Bricks in each level
+[2023.02.27-16.05.40:568][186]LogVolumetricLightmapImport:          HCLevel 			 26 bricks 	 100.0% (Persistent Level)
+[2023.02.27-16.05.40:781][186]LogTexture: Display: Building textures: SkyOcclusion0_1 (OODLE_AutoDXT, 1024X512)
+[2023.02.27-16.05.40:781][186]LogTexture: Display: Building textures: HQ_Lightmap0_1 (OODLE_AutoDXT, 1024X1024)
+[2023.02.27-16.05.40:781][186]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.27-16.05.40:781][186]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.27-16.05.40:781][186]LogTexture: Display: Building textures: SkyOcclusion0_2 (OODLE_AutoDXT, 256X128)
+[2023.02.27-16.05.40:781][186]LogTexture: Display: Building textures: HQ_Lightmap0_2 (OODLE_AutoDXT, 256X256)
+[2023.02.27-16.05.40:781][186]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (OODLE_DXT1, 1024X1024)
+[2023.02.27-16.05.40:781][186]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (OODLE_DXT1, 256X256)
+[2023.02.27-16.05.40:781][186]LogTexture: Display: Building textures: SkyOcclusion0_3 (OODLE_AutoDXT, 256X128)
+[2023.02.27-16.05.40:782][186]LogTexture: Display: Building textures: HQ_Lightmap0_3 (OODLE_AutoDXT, 256X256)
+[2023.02.27-16.05.40:782][186]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.27-16.05.40:782][186]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (OODLE_DXT1, 256X256)
+[2023.02.27-16.05.40:782][186]LogTexture: Display: Building textures: SkyOcclusion0_4 (OODLE_AutoDXT, 64X32)
+[2023.02.27-16.05.40:782][186]LogTexture: Display: Building textures: HQ_Lightmap0_4 (OODLE_AutoDXT, 64X64)
+[2023.02.27-16.05.40:782][186]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (OODLE_DXT1, 64X64)
+[2023.02.27-16.05.40:851][186]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (G8, 32X32)
+[2023.02.27-16.05.40:851][186]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (G8, 256X64)
+[2023.02.27-16.05.40:851][186]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (BGRA8, 512X64)
+[2023.02.27-16.05.40:851][186]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (BGRA8, 1024X256)
+[2023.02.27-16.05.40:851][186]LogStaticLightingSystem: HCLevel_BuiltData storing lightmap data for 58 meshes in 6 LightmapResourceClusters (9.7 Meshes per cluster).
+[2023.02.27-16.05.40:872][186]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.02.27-16.05.40:878][186]Lightmass on BCUD2-009319: 4.61 sec total, 155 ms importing, 51 ms setup, 492 ms photons, 3.85 sec processing, 0 ms extra exporting [58/58 mappings]. Threads: 26.9 sec total, 13.0 sec processing.
+[2023.02.27-16.05.40:944][186]LogStaticLightingSystem: Illumination: 10.2 sec (196 ms encoding lightmaps, 43 ms encoding shadowmaps)
+[2023.02.27-16.05.40:944][186]LogStaticLightingSystem: Lightmap texture memory:  3.0 MB (3.0 MB streaming, 0.0 MB non-streaming), 8 textures
+[2023.02.27-16.05.40:944][186]LogStaticLightingSystem: Shadowmap texture memory: 1.5 MB (1.5 MB streaming, 0.0 MB non-streaming), 4 textures
+[2023.02.27-16.05.41:284][186]DumpUnbuiltLightIteractions
+[2023.02.27-16.05.41:284][186]Lights with unbuilt interactions: 0
+[2023.02.27-16.05.41:284][186]
+[2023.02.27-16.05.41:284][186]Primitives with unbuilt interactions: 0
+[2023.02.27-16.05.41:376][186]LogTexture: Display: Building textures: NewReflectionComponentTexture3884DE244CA9D1E5320A11B1C608A293 (BGRA8, 128X128)
+[2023.02.27-16.05.41:414][187]Cmd: MAP CHECK NOTIFYRESULTS
+[2023.02.27-16.05.41:414][187]MapCheck: New page: HCLevel - 27 Feb 2023, 16:05:41
+[2023.02.27-16.05.41:414][187]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.547ms to complete.
+[2023.02.27-16.05.43:545][423]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.27-16.05.43:554][423]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.27-16.05.43:554][423]PIE: New page: PIE session: HCLevel (27 Feb 2023, 16:05:43)
+[2023.02.27-16.05.43:586][423]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_HCLevel
+[2023.02.27-16.05.43:605][423]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020130s)
+[2023.02.27-16.05.43:606][423]LogAIModule: Creating AISystem for world HCLevel
+[2023.02.27-16.05.43:606][423]LogPlayLevel: PIE: World Init took: (0.001150s)
+[2023.02.27-16.05.43:607][423]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/HCLevel.HCLevel to /Game/UEDPIE_0_HCLevel.HCLevel (0.021461s)
+[2023.02.27-16.05.43:628][423]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2023.02.27-16.05.43:631][423]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2023.02.27-16.05.43:631][423]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.27-16.05.43:632][423]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.27-16.05.43:632][423]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.27-16.05.43:632][423]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.27-16.05.43:632][423]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.27-16.05.43:632][423]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.27-16.05.43:632][423]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.27-16.05.43:632][423]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.27-16.05.43:632][423]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.27-16.05.43:632][423]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.27-16.05.43:632][423]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.27-16.05.43:632][423]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.27-16.05.43:636][423]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.27-16.05.43:636][423]LogAudioMixer: Display: 1: FrontRight
+[2023.02.27-16.05.43:658][423]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.02.27-16.05.43:659][423]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.27-16.05.43:659][423]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.27-16.05.43:659][423]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.27-16.05.43:659][423]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.27-16.05.43:659][423]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.27-16.05.43:659][423]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.27-16.05.43:660][423]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.27-16.05.43:660][423]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.27-16.05.43:660][423]LogInit: FAudioDevice initialized.
+[2023.02.27-16.05.43:660][423]LogAudio: Display: Audio Device (ID: 29) registered with world 'HCLevel'.
+[2023.02.27-16.05.43:668][423]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.02.27-16.05.43:670][423]LogWorld: Bringing World /Game/UEDPIE_0_HCLevel.HCLevel up for play (max tick rate 0) at 2023.02.27-16.05.43
+[2023.02.27-16.05.43:671][423]LogWorld: Bringing up level for play took: 0.003568
+[2023.02.27-16.05.43:672][423]LogOnline: OSS: Creating online subsystem instance for: :Context_45
+[2023.02.27-16.05.43:674][423]PIE: Server logged in
+[2023.02.27-16.05.43:674][423]PIE: Play in editor total start time 0.125 seconds.
+[2023.02.27-16.05.57:000][ 10]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.27-16.05.57:000][ 10]LogWorld: BeginTearingDown for /Game/UEDPIE_0_HCLevel
+[2023.02.27-16.05.57:000][ 10]LogWorld: UWorld::CleanupWorld for HCLevel, bSessionEnded=true, bCleanupResources=true
+[2023.02.27-16.05.57:000][ 10]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-16.05.57:011][ 10]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.27-16.05.57:022][ 10]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-16.05.57:037][ 10]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.27-16.05.57:037][ 10]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.27-16.05.57:039][ 10]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.27-16.05.57:041][ 10]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.27-16.05.57:044][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2023.02.27-16.05.57:074][ 11]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2023.02.27-16.06.00:847][447]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.02.27-16.06.05:557][  7]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.02.27-16.06.17:896][455]MapCheck: New page: Map Check
+[2023.02.27-16.06.17:911][455]LightingResults: New page: Lighting Build - 27 Feb 2023, 16:06:17
+[2023.02.27-16.06.17:918][455]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2023.02.27-16.06.17:921][455]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2023.02.27-16.06.17:921][455]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2023.02.27-16.06.17:922][455]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2023.02.27-16.06.17:922][455]LogSwarmInterface: [TryOpenConnection] Local Process ID is 12588
+[2023.02.27-16.06.22:559][455]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2023.02.27-16.06.22:559][455]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2023.02.27-16.06.22:559][455]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2023.02.27-16.06.22:559][455]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2023.02.27-16.06.22:559][455]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2023.02.27-16.06.22:638][455]LogEditorBuildUtils: Build time 0:04
+[2023.02.27-16.06.22:689][456]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.02.27-16.06.27:721][869]Job is a success!
+[2023.02.27-16.06.27:942][870]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.022s
+[2023.02.27-16.06.27:942][870]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2023.02.27-16.06.27:942][870]LogVolumetricLightmapImport:      BrickData (all levels) 0.1Mb (trimmed 0.4Mb due to 0.010000 MinBrickError)
+[2023.02.27-16.06.27:943][870]LogVolumetricLightmapImport:      Bricks at depth
+[2023.02.27-16.06.27:943][870]LogVolumetricLightmapImport:          0: 4.0% covering 100.0% of volume
+[2023.02.27-16.06.27:943][870]LogVolumetricLightmapImport:          1: 24.0% covering 9.4% of volume
+[2023.02.27-16.06.27:943][870]LogVolumetricLightmapImport:          2: 72.0% covering 0.4% of volume
+[2023.02.27-16.06.27:943][870]LogVolumetricLightmapImport:      Bricks in each level
+[2023.02.27-16.06.27:943][870]LogVolumetricLightmapImport:          HCLevel 			 25 bricks 	 100.0% (Persistent Level)
+[2023.02.27-16.06.28:148][870]LogTexture: Display: Building textures: SkyOcclusion1_1 (OODLE_AutoDXT, 1024X512)
+[2023.02.27-16.06.28:148][870]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.27-16.06.28:148][870]LogTexture: Display: Building textures: HQ_Lightmap1_1 (OODLE_AutoDXT, 1024X1024)
+[2023.02.27-16.06.28:148][870]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.27-16.06.28:148][870]LogTexture: Display: Building textures: HQ_Lightmap1_2 (OODLE_AutoDXT, 256X256)
+[2023.02.27-16.06.28:148][870]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (OODLE_DXT1, 1024X1024)
+[2023.02.27-16.06.28:148][870]LogTexture: Display: Building textures: SkyOcclusion1_2 (OODLE_AutoDXT, 256X128)
+[2023.02.27-16.06.28:148][870]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (OODLE_DXT1, 256X256)
+[2023.02.27-16.06.28:148][870]LogTexture: Display: Building textures: SkyOcclusion1_3 (OODLE_AutoDXT, 256X128)
+[2023.02.27-16.06.28:148][870]LogTexture: Display: Building textures: HQ_Lightmap1_3 (OODLE_AutoDXT, 256X256)
+[2023.02.27-16.06.28:148][870]LogTexture: Display: Building textures: SkyOcclusion1_4 (OODLE_AutoDXT, 64X32)
+[2023.02.27-16.06.28:148][870]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (OODLE_DXT1, 256X256)
+[2023.02.27-16.06.28:148][870]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.27-16.06.28:148][870]LogTexture: Display: Building textures: HQ_Lightmap1_4 (OODLE_AutoDXT, 64X64)
+[2023.02.27-16.06.28:148][870]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (OODLE_DXT1, 64X64)
+[2023.02.27-16.06.28:262][870]LogTexture: Display: Building textures: ShadowMapTexture2D_15 (G8, 32X32)
+[2023.02.27-16.06.28:262][870]LogTexture: Display: Building textures: ShadowMapTexture2D_14 (G8, 256X64)
+[2023.02.27-16.06.28:262][870]LogTexture: Display: Building textures: ShadowMapTexture2D_13 (BGRA8, 512X64)
+[2023.02.27-16.06.28:262][870]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (BGRA8, 1024X256)
+[2023.02.27-16.06.28:262][870]LogStaticLightingSystem: HCLevel_BuiltData storing lightmap data for 58 meshes in 6 LightmapResourceClusters (9.7 Meshes per cluster).
+[2023.02.27-16.06.28:296][870]Lightmass on BCUD2-009319: 5.03 sec total, 147 ms importing, 107 ms setup, 551 ms photons, 4.17 sec processing, 0 ms extra exporting [58/58 mappings]. Threads: 29.1 sec total, 14.1 sec processing.
+[2023.02.27-16.06.28:298][870]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.02.27-16.06.28:361][870]LogStaticLightingSystem: Illumination: 10.3 sec (195 ms encoding lightmaps, 82 ms encoding shadowmaps)
+[2023.02.27-16.06.28:361][870]LogStaticLightingSystem: Lightmap texture memory:  3.0 MB (3.0 MB streaming, 0.0 MB non-streaming), 8 textures
+[2023.02.27-16.06.28:361][870]LogStaticLightingSystem: Shadowmap texture memory: 1.5 MB (1.5 MB streaming, 0.0 MB non-streaming), 4 textures
+[2023.02.27-16.06.28:570][870]DumpUnbuiltLightIteractions
+[2023.02.27-16.06.28:570][870]Lights with unbuilt interactions: 0
+[2023.02.27-16.06.28:570][870]
+[2023.02.27-16.06.28:570][870]Primitives with unbuilt interactions: 0
+[2023.02.27-16.06.28:730][870]LogTexture: Display: Building textures: NewReflectionComponentTexture3884DE244CA9D1E5320A11B1C608A293 (BGRA8, 128X128)
+[2023.02.27-16.06.28:761][871]Cmd: MAP CHECK NOTIFYRESULTS
+[2023.02.27-16.06.28:761][871]MapCheck: New page: HCLevel - 27 Feb 2023, 16:06:28
+[2023.02.27-16.06.28:762][871]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.907ms to complete.
+[2023.02.27-16.09.03:267][363]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.27-16.09.03:277][363]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.27-16.09.03:277][363]PIE: New page: PIE session: HCLevel (27 Feb 2023, 16:09:03)
+[2023.02.27-16.09.03:305][363]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_HCLevel
+[2023.02.27-16.09.03:326][363]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020964s)
+[2023.02.27-16.09.03:328][363]LogAIModule: Creating AISystem for world HCLevel
+[2023.02.27-16.09.03:328][363]LogPlayLevel: PIE: World Init took: (0.001775s)
+[2023.02.27-16.09.03:328][363]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/HCLevel.HCLevel to /Game/UEDPIE_0_HCLevel.HCLevel (0.022966s)
+[2023.02.27-16.09.03:350][363]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2023.02.27-16.09.03:370][363]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2023.02.27-16.09.03:370][363]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.27-16.09.03:370][363]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.27-16.09.03:370][363]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.27-16.09.03:370][363]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.27-16.09.03:370][363]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.27-16.09.03:370][363]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.27-16.09.03:370][363]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.27-16.09.03:370][363]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.27-16.09.03:370][363]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.27-16.09.03:370][363]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.27-16.09.03:370][363]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.27-16.09.03:370][363]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.27-16.09.03:375][363]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.27-16.09.03:375][363]LogAudioMixer: Display: 1: FrontRight
+[2023.02.27-16.09.03:398][363]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.02.27-16.09.03:398][363]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.27-16.09.03:399][363]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.27-16.09.03:399][363]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.27-16.09.03:399][363]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.27-16.09.03:399][363]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.27-16.09.03:399][363]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.27-16.09.03:400][363]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.27-16.09.03:400][363]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.27-16.09.03:400][363]LogInit: FAudioDevice initialized.
+[2023.02.27-16.09.03:400][363]LogAudio: Display: Audio Device (ID: 30) registered with world 'HCLevel'.
+[2023.02.27-16.09.03:409][363]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.02.27-16.09.03:413][363]LogWorld: Bringing World /Game/UEDPIE_0_HCLevel.HCLevel up for play (max tick rate 0) at 2023.02.27-16.09.03
+[2023.02.27-16.09.03:414][363]LogWorld: Bringing up level for play took: 0.003850
+[2023.02.27-16.09.03:414][363]LogOnline: OSS: Creating online subsystem instance for: :Context_46
+[2023.02.27-16.09.03:417][363]PIE: Server logged in
+[2023.02.27-16.09.03:417][363]PIE: Play in editor total start time 0.145 seconds.
+[2023.02.27-16.09.06:793][755]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.27-16.09.06:793][755]LogWorld: BeginTearingDown for /Game/UEDPIE_0_HCLevel
+[2023.02.27-16.09.06:793][755]LogWorld: UWorld::CleanupWorld for HCLevel, bSessionEnded=true, bCleanupResources=true
+[2023.02.27-16.09.06:794][755]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-16.09.06:808][755]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.27-16.09.06:820][755]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-16.09.06:836][755]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.27-16.09.06:837][755]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.27-16.09.06:838][755]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.27-16.09.06:844][755]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2023.02.27-16.09.06:872][756]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2023.02.27-16.09.11:996][366]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Steam_Lit3)
+[2023.02.27-16.09.12:841][464]LogEditorViewport: Clicking on Actor (LMB): torchBP_C (torchBP)
+[2023.02.27-16.09.18:978][192]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.02.27-16.09.24:884][889]Cmd: TRANSACTION UNDO
+[2023.02.27-16.09.24:884][889]LogEditorTransaction: Undo Move Actors
+[2023.02.27-16.14.28:882][235]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.02.27-16.14.28:903][235]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HCLevel" FILE="V:/Unreal-CW2-Git2/ChallengeWeek2/CW2/Saved/Autosaves/Game/HCLevel_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.02.27-16.14.28:959][235]LogSavePackage: Moving 'V:/Unreal-CW2-Git2/ChallengeWeek2/CW2/Saved/HCLevel_Auto36AA60B244A5AD41414F327B73FE5ADE7.tmp' to 'V:/Unreal-CW2-Git2/ChallengeWeek2/CW2/Saved/Autosaves/Game/HCLevel_Auto3.umap'
+[2023.02.27-16.14.28:961][235]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/HCLevel' took 0.098
+[2023.02.27-16.14.28:961][235]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.098
+[2023.02.27-16.14.28:962][235]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/landscapeMat] ([1] browsable assets)...
+[2023.02.27-16.14.28:962][235]OBJ SavePackage: Finished generating thumbnails for package [/Game/landscapeMat]
+[2023.02.27-16.14.28:962][235]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/landscapeMat" FILE="V:/Unreal-CW2-Git2/ChallengeWeek2/CW2/Saved/Autosaves/Game/landscapeMat_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2023.02.27-16.14.28:964][235]LogSavePackage: Moving 'V:/Unreal-CW2-Git2/ChallengeWeek2/CW2/Saved/landscapeMat_Auto355BEDF204609DEA336EC07A824EC3C71.tmp' to 'V:/Unreal-CW2-Git2/ChallengeWeek2/CW2/Saved/Autosaves/Game/landscapeMat_Auto3.uasset'
+[2023.02.27-16.14.28:964][235]LogFileHelpers: Auto-saving content packages took 0.003
+[2023.02.27-16.19.48:304][128]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Steam_Lit3)
+[2023.02.27-16.20.05:902][184]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2023.02.27-16.20.06:336][232]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight3)
+[2023.02.27-16.20.07:072][315]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Steam_Lit3)
+[2023.02.27-16.20.15:751][335]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight3)
+[2023.02.27-16.20.24:839][409]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Steam_Lit3)
+[2023.02.27-16.20.38:195][966]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.27-16.20.38:206][966]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.27-16.20.38:206][966]PIE: New page: PIE session: HCLevel (27 Feb 2023, 16:20:38)
+[2023.02.27-16.20.38:235][966]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_HCLevel
+[2023.02.27-16.20.38:258][966]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023371s)
+[2023.02.27-16.20.38:260][966]LogAIModule: Creating AISystem for world HCLevel
+[2023.02.27-16.20.38:260][966]LogPlayLevel: PIE: World Init took: (0.001590s)
+[2023.02.27-16.20.38:260][966]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/HCLevel.HCLevel to /Game/UEDPIE_0_HCLevel.HCLevel (0.025171s)
+[2023.02.27-16.20.38:285][966]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2023.02.27-16.20.38:306][966]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2023.02.27-16.20.38:306][966]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.27-16.20.38:306][966]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.27-16.20.38:306][966]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.27-16.20.38:306][966]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.27-16.20.38:306][966]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.27-16.20.38:306][966]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.27-16.20.38:306][966]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.27-16.20.38:306][966]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.27-16.20.38:307][966]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.27-16.20.38:307][966]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.27-16.20.38:307][966]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.27-16.20.38:307][966]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.27-16.20.38:312][966]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.27-16.20.38:312][966]LogAudioMixer: Display: 1: FrontRight
+[2023.02.27-16.20.38:337][966]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.02.27-16.20.38:337][966]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.27-16.20.38:337][966]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.27-16.20.38:337][966]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.27-16.20.38:338][966]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.27-16.20.38:338][966]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.27-16.20.38:338][966]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.27-16.20.38:340][966]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.27-16.20.38:340][966]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.27-16.20.38:340][966]LogInit: FAudioDevice initialized.
+[2023.02.27-16.20.38:340][966]LogAudio: Display: Audio Device (ID: 31) registered with world 'HCLevel'.
+[2023.02.27-16.20.38:351][966]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.02.27-16.20.38:355][966]LogWorld: Bringing World /Game/UEDPIE_0_HCLevel.HCLevel up for play (max tick rate 0) at 2023.02.27-16.20.38
+[2023.02.27-16.20.38:357][966]LogWorld: Bringing up level for play took: 0.004496
+[2023.02.27-16.20.38:357][966]LogOnline: OSS: Creating online subsystem instance for: :Context_47
+[2023.02.27-16.20.38:359][966]PIE: Server logged in
+[2023.02.27-16.20.38:360][966]PIE: Play in editor total start time 0.159 seconds.
+[2023.02.27-16.21.11:106][882]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.27-16.21.11:107][882]LogWorld: BeginTearingDown for /Game/UEDPIE_0_HCLevel
+[2023.02.27-16.21.11:107][882]LogWorld: UWorld::CleanupWorld for HCLevel, bSessionEnded=true, bCleanupResources=true
+[2023.02.27-16.21.11:109][882]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-16.21.11:132][882]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.27-16.21.11:159][882]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-16.21.11:186][882]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.27-16.21.11:186][882]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.27-16.21.11:187][882]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.27-16.21.11:192][882]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.27-16.21.11:196][882]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2023.02.27-16.21.11:228][883]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2023.02.27-16.21.12:713][ 37]MapCheck: New page: Map Check
+[2023.02.27-16.21.12:727][ 37]LightingResults: New page: Lighting Build - 27 Feb 2023, 16:21:12
+[2023.02.27-16.21.12:733][ 37]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2023.02.27-16.21.12:738][ 37]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2023.02.27-16.21.12:738][ 37]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2023.02.27-16.21.12:739][ 37]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2023.02.27-16.21.12:739][ 37]LogSwarmInterface: [TryOpenConnection] Local Process ID is 12588
+[2023.02.27-16.21.17:369][ 37]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2023.02.27-16.21.17:369][ 37]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2023.02.27-16.21.17:369][ 37]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2023.02.27-16.21.17:370][ 37]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2023.02.27-16.21.17:370][ 37]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2023.02.27-16.21.17:469][ 37]LogEditorBuildUtils: Build time 0:04
+[2023.02.27-16.21.17:475][ 37]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.27-16.21.17:475][ 37]LogShaderCompilers: Display: Total job queries 1760, among them cache hits 1355 (76.99%)
+[2023.02.27-16.21.17:475][ 37]LogShaderCompilers: Display: Tracking 395 distinct input hashes that result in 141 distinct outputs (35.70%)
+[2023.02.27-16.21.17:475][ 37]LogShaderCompilers: Display: RAM used: 0.82 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.10%
+[2023.02.27-16.21.17:475][ 37]LogShaderCompilers: Display: ================================================
+[2023.02.27-16.21.17:548][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2023.02.27-16.21.23:166][504]Job is a success!
+[2023.02.27-16.21.23:461][506]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.032s
+[2023.02.27-16.21.23:461][506]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2023.02.27-16.21.23:461][506]LogVolumetricLightmapImport:      BrickData (all levels) 0.2Mb (trimmed 0.3Mb due to 0.010000 MinBrickError)
+[2023.02.27-16.21.23:461][506]LogVolumetricLightmapImport:      Bricks at depth
+[2023.02.27-16.21.23:461][506]LogVolumetricLightmapImport:          0: 2.0% covering 100.0% of volume
+[2023.02.27-16.21.23:461][506]LogVolumetricLightmapImport:          1: 12.2% covering 9.4% of volume
+[2023.02.27-16.21.23:461][506]LogVolumetricLightmapImport:          2: 85.7% covering 1.0% of volume
+[2023.02.27-16.21.23:461][506]LogVolumetricLightmapImport:      Bricks in each level
+[2023.02.27-16.21.23:461][506]LogVolumetricLightmapImport:          HCLevel 			 49 bricks 	 100.0% (Persistent Level)
+[2023.02.27-16.21.23:506][506]LightingResults: Warning: PointLight4 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2023.02.27-16.21.23:506][506]LightingResults: Warning: PointLight5 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2023.02.27-16.21.23:742][506]LogTexture: Display: Building textures: SkyOcclusion0_1 (OODLE_AutoDXT, 1024X512)
+[2023.02.27-16.21.23:742][506]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.27-16.21.23:742][506]LogTexture: Display: Building textures: HQ_Lightmap0_1 (OODLE_AutoDXT, 1024X1024)
+[2023.02.27-16.21.23:742][506]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (OODLE_DXT1, 1024X1024)
+[2023.02.27-16.21.23:742][506]LogTexture: Display: Building textures: HQ_Lightmap0_2 (OODLE_AutoDXT, 256X256)
+[2023.02.27-16.21.23:742][506]LogTexture: Display: Building textures: SkyOcclusion0_2 (OODLE_AutoDXT, 256X128)
+[2023.02.27-16.21.23:742][506]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (OODLE_DXT1, 256X256)
+[2023.02.27-16.21.23:742][506]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.27-16.21.23:742][506]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.27-16.21.23:742][506]LogTexture: Display: Building textures: SkyOcclusion0_3 (OODLE_AutoDXT, 256X128)
+[2023.02.27-16.21.23:742][506]LogTexture: Display: Building textures: HQ_Lightmap0_3 (OODLE_AutoDXT, 256X256)
+[2023.02.27-16.21.23:742][506]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (OODLE_DXT1, 256X256)
+[2023.02.27-16.21.23:742][506]LogTexture: Display: Building textures: SkyOcclusion0_4 (OODLE_AutoDXT, 64X32)
+[2023.02.27-16.21.23:742][506]LogTexture: Display: Building textures: HQ_Lightmap0_4 (OODLE_AutoDXT, 64X64)
+[2023.02.27-16.21.23:742][506]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (OODLE_DXT1, 64X64)
+[2023.02.27-16.21.23:742][506]LogTexture: Display: Building textures: ShadowMapTexture2D_19 (G8, 32X32)
+[2023.02.27-16.21.23:742][506]LogTexture: Display: Building textures: ShadowMapTexture2D_18 (G8, 256X64)
+[2023.02.27-16.21.23:742][506]LogTexture: Display: Building textures: ShadowMapTexture2D_17 (BGRA8, 512X64)
+[2023.02.27-16.21.23:774][506]LogTexture: Display: Building textures: ShadowMapTexture2D_16 (BGRA8, 1024X256)
+[2023.02.27-16.21.23:821][506]Lightmass on BCUD2-009319: 5.68 sec total, 201 ms importing, 87 ms setup, 559 ms photons, 4.76 sec processing, 0 ms extra exporting [58/58 mappings]. Threads: 33.3 sec total, 17.3 sec processing.
+[2023.02.27-16.21.23:821][506]LogStaticLightingSystem: HCLevel_BuiltData storing lightmap data for 58 meshes in 6 LightmapResourceClusters (9.7 Meshes per cluster).
+[2023.02.27-16.21.23:845][506]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2023.02.27-16.21.23:861][506]LogStaticLightingSystem: Illumination: 11.0 sec (192 ms encoding lightmaps, 81 ms encoding shadowmaps)
+[2023.02.27-16.21.23:861][506]LogStaticLightingSystem: Lightmap texture memory:  3.0 MB (3.0 MB streaming, 0.0 MB non-streaming), 8 textures
+[2023.02.27-16.21.23:861][506]LogStaticLightingSystem: Shadowmap texture memory: 1.5 MB (1.5 MB streaming, 0.0 MB non-streaming), 4 textures
+[2023.02.27-16.21.24:385][506]DumpUnbuiltLightIteractions
+[2023.02.27-16.21.24:385][506]Lights with unbuilt interactions: 0
+[2023.02.27-16.21.24:385][506]
+[2023.02.27-16.21.24:385][506]Primitives with unbuilt interactions: 0
+[2023.02.27-16.21.24:551][506]LogTexture: Display: Building textures: NewReflectionComponentTexture3884DE244CA9D1E5320A11B1C608A293 (BGRA8, 128X128)
+[2023.02.27-16.21.24:581][507]Cmd: MAP CHECK NOTIFYRESULTS
+[2023.02.27-16.21.24:581][507]MapCheck: New page: HCLevel - 27 Feb 2023, 16:21:24
+[2023.02.27-16.21.24:581][507]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.776ms to complete.
+[2023.02.27-16.22.38:128][292]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.27-16.22.38:137][292]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.27-16.22.38:137][292]PIE: New page: PIE session: HCLevel (27 Feb 2023, 16:22:38)
+[2023.02.27-16.22.38:137][292]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_HCLevel
+[2023.02.27-16.22.38:158][292]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020782s)
+[2023.02.27-16.22.38:159][292]LogAIModule: Creating AISystem for world HCLevel
+[2023.02.27-16.22.38:160][292]LogPlayLevel: PIE: World Init took: (0.001084s)
+[2023.02.27-16.22.38:160][292]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/HCLevel.HCLevel to /Game/UEDPIE_0_HCLevel.HCLevel (0.022014s)
+[2023.02.27-16.22.38:182][292]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2023.02.27-16.22.38:191][292]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2023.02.27-16.22.38:191][292]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.27-16.22.38:191][292]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.27-16.22.38:191][292]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.27-16.22.38:191][292]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.27-16.22.38:191][292]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.27-16.22.38:191][292]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.27-16.22.38:191][292]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.27-16.22.38:191][292]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.27-16.22.38:192][292]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.27-16.22.38:192][292]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.27-16.22.38:192][292]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.27-16.22.38:192][292]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.27-16.22.38:196][292]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.27-16.22.38:196][292]LogAudioMixer: Display: 1: FrontRight
+[2023.02.27-16.22.38:220][292]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.02.27-16.22.38:220][292]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.27-16.22.38:220][292]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.27-16.22.38:220][292]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.27-16.22.38:220][292]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.27-16.22.38:220][292]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.27-16.22.38:221][292]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.27-16.22.38:221][292]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.27-16.22.38:221][292]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.27-16.22.38:221][292]LogInit: FAudioDevice initialized.
+[2023.02.27-16.22.38:221][292]LogAudio: Display: Audio Device (ID: 32) registered with world 'HCLevel'.
+[2023.02.27-16.22.38:229][292]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.02.27-16.22.38:232][292]LogWorld: Bringing World /Game/UEDPIE_0_HCLevel.HCLevel up for play (max tick rate 0) at 2023.02.27-16.22.38
+[2023.02.27-16.22.38:234][292]LogWorld: Bringing up level for play took: 0.004665
+[2023.02.27-16.22.38:234][292]LogOnline: OSS: Creating online subsystem instance for: :Context_48
+[2023.02.27-16.22.38:237][292]PIE: Server logged in
+[2023.02.27-16.22.38:237][292]PIE: Play in editor total start time 0.104 seconds.
+[2023.02.27-16.22.46:346][254]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.27-16.22.46:346][254]LogWorld: BeginTearingDown for /Game/UEDPIE_0_HCLevel
+[2023.02.27-16.22.46:346][254]LogWorld: UWorld::CleanupWorld for HCLevel, bSessionEnded=true, bCleanupResources=true
+[2023.02.27-16.22.46:348][254]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-16.22.46:361][254]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.27-16.22.46:375][254]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-16.22.46:394][254]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.27-16.22.46:394][254]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.27-16.22.46:395][254]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.27-16.22.46:401][254]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2023.02.27-16.22.46:427][255]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2023.02.27-16.22.57:633][549]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Steam_Lit5)
+[2023.02.27-16.22.58:231][615]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Steam_Lit5)
+[2023.02.27-16.23.00:143][836]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Steam_Lit5)
+[2023.02.27-16.23.06:800][609]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight6)
+[2023.02.27-16.23.08:372][794]Cmd: DELETE
+[2023.02.27-16.23.08:372][794]Cmd: ACTOR DELETE
+[2023.02.27-16.23.08:377][794]LogEditorActor: Deleted Actor: PointLight
+[2023.02.27-16.23.08:394][794]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.02.27-16.23.08:404][794]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2023.02.27-16.23.09:720][952]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight3)
+[2023.02.27-16.23.14:111][468]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Steam_Lit4)
+[2023.02.27-16.23.14:968][564]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight3)
+[2023.02.27-16.23.25:123][747]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.02.27-16.23.33:993][797]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Steam_Lit2)
+[2023.02.27-16.23.34:606][866]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Steam_Lit2)
+[2023.02.27-16.23.37:758][231]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.02.27-16.23.47:057][294]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.27-16.23.47:067][294]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.27-16.23.47:068][294]PIE: New page: PIE session: HCLevel (27 Feb 2023, 16:23:47)
+[2023.02.27-16.23.47:105][294]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_HCLevel
+[2023.02.27-16.23.47:132][294]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026533s)
+[2023.02.27-16.23.47:133][294]LogAIModule: Creating AISystem for world HCLevel
+[2023.02.27-16.23.47:133][294]LogPlayLevel: PIE: World Init took: (0.001294s)
+[2023.02.27-16.23.47:133][294]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/HCLevel.HCLevel to /Game/UEDPIE_0_HCLevel.HCLevel (0.028002s)
+[2023.02.27-16.23.47:158][294]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2023.02.27-16.23.47:168][294]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2023.02.27-16.23.47:168][294]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.27-16.23.47:169][294]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.27-16.23.47:169][294]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.27-16.23.47:169][294]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.27-16.23.47:169][294]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.27-16.23.47:169][294]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.27-16.23.47:169][294]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.27-16.23.47:169][294]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.27-16.23.47:169][294]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.27-16.23.47:169][294]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.27-16.23.47:169][294]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.27-16.23.47:169][294]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.27-16.23.47:184][294]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.27-16.23.47:184][294]LogAudioMixer: Display: 1: FrontRight
+[2023.02.27-16.23.47:208][294]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.02.27-16.23.47:208][294]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.27-16.23.47:208][294]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.27-16.23.47:208][294]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.27-16.23.47:209][294]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.27-16.23.47:209][294]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.27-16.23.47:209][294]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.27-16.23.47:210][294]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.27-16.23.47:210][294]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.27-16.23.47:210][294]LogInit: FAudioDevice initialized.
+[2023.02.27-16.23.47:210][294]LogAudio: Display: Audio Device (ID: 33) registered with world 'HCLevel'.
+[2023.02.27-16.23.47:222][294]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.02.27-16.23.47:225][294]LogWorld: Bringing World /Game/UEDPIE_0_HCLevel.HCLevel up for play (max tick rate 0) at 2023.02.27-16.23.47
+[2023.02.27-16.23.47:227][294]LogWorld: Bringing up level for play took: 0.004925
+[2023.02.27-16.23.47:227][294]LogOnline: OSS: Creating online subsystem instance for: :Context_49
+[2023.02.27-16.23.47:239][294]PIE: Server logged in
+[2023.02.27-16.23.47:240][294]PIE: Play in editor total start time 0.178 seconds.
+[2023.02.27-16.23.57:200][452]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.27-16.23.57:200][452]LogWorld: BeginTearingDown for /Game/UEDPIE_0_HCLevel
+[2023.02.27-16.23.57:200][452]LogWorld: UWorld::CleanupWorld for HCLevel, bSessionEnded=true, bCleanupResources=true
+[2023.02.27-16.23.57:200][452]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-16.23.57:210][452]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.27-16.23.57:231][452]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-16.23.57:247][452]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.27-16.23.57:247][452]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.27-16.23.57:248][452]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.27-16.23.57:252][452]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.27-16.23.57:254][452]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.02.27-16.23.57:284][453]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2023.02.27-16.24.06:462][492]LogEditorViewport: Clicking on Actor (LMB): shipWheelBP_C (shipWheelBP)
+[2023.02.27-16.25.21:470][192]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2023.02.27-16.25.21:488][192]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HCLevel" FILE="V:/Unreal-CW2-Git2/ChallengeWeek2/CW2/Saved/Autosaves/Game/HCLevel_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.02.27-16.25.21:547][192]LogSavePackage: Moving 'V:/Unreal-CW2-Git2/ChallengeWeek2/CW2/Saved/HCLevel_Auto459F2422B4C14A1262FC3FDB0CBBBED57.tmp' to 'V:/Unreal-CW2-Git2/ChallengeWeek2/CW2/Saved/Autosaves/Game/HCLevel_Auto4.umap'
+[2023.02.27-16.25.21:549][192]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/HCLevel' took 0.113
+[2023.02.27-16.25.21:549][192]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.113
+[2023.02.27-16.29.55:745][291]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content' is outside repository at 'V:/Unreal-CW2-Git2/ChallengeWeek2'
+[2023.02.27-16.29.55:745][291]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'V:/Unreal-CW2-Git2/ChallengeWeek2'
+[2023.02.27-16.29.55:745][291]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'V:/Unreal-CW2-Git2/ChallengeWeek2'
+[2023.02.27-16.29.55:745][291]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at 'V:/Unreal-CW2-Git2/ChallengeWeek2'
+[2023.02.27-16.29.55:745][291]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'V:/Unreal-CW2-Git2/ChallengeWeek2'
+[2023.02.27-16.29.55:745][291]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'V:/Unreal-CW2-Git2/ChallengeWeek2'
+[2023.02.27-16.29.55:745][291]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'V:/Unreal-CW2-Git2/ChallengeWeek2'
+[2023.02.27-16.29.55:745][291]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'V:/Unreal-CW2-Git2/ChallengeWeek2'
+[2023.02.27-16.29.55:745][291]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'V:/Unreal-CW2-Git2/ChallengeWeek2'
+[2023.02.27-16.29.55:745][291]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'V:/Unreal-CW2-Git2/ChallengeWeek2'
+[2023.02.27-16.29.55:745][291]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'V:/Unreal-CW2-Git2/ChallengeWeek2'
+[2023.02.27-16.29.55:745][291]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'V:/Unreal-CW2-Git2/ChallengeWeek2'
+[2023.02.27-16.29.55:745][291]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'V:/Unreal-CW2-Git2/ChallengeWeek2'
+[2023.02.27-16.29.55:745][291]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'V:/Unreal-CW2-Git2/ChallengeWeek2'
+[2023.02.27-16.29.55:745][291]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'V:/Unreal-CW2-Git2/ChallengeWeek2'
+[2023.02.27-16.29.55:745][291]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'V:/Unreal-CW2-Git2/ChallengeWeek2'
+[2023.02.27-16.29.55:745][291]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'V:/Unreal-CW2-Git2/ChallengeWeek2'
+[2023.02.27-16.29.55:745][291]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'V:/Unreal-CW2-Git2/ChallengeWeek2'
+[2023.02.27-16.29.55:745][291]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'V:/Unreal-CW2-Git2/ChallengeWeek2'
+[2023.02.27-16.29.55:745][291]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'V:/Unreal-CW2-Git2/ChallengeWeek2'
+[2023.02.27-16.29.55:745][291]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'V:/Unreal-CW2-Git2/ChallengeWeek2'
+[2023.02.27-16.29.55:745][291]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'V:/Unreal-CW2-Git2/ChallengeWeek2'
+[2023.02.27-16.29.55:745][291]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'V:/Unreal-CW2-Git2/ChallengeWeek2'
+[2023.02.27-16.29.55:745][291]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'V:/Unreal-CW2-Git2/ChallengeWeek2'
+[2023.02.27-16.29.55:745][291]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'V:/Unreal-CW2-Git2/ChallengeWeek2'
+[2023.02.27-16.29.55:745][291]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'V:/Unreal-CW2-Git2/ChallengeWeek2'
+[2023.02.27-16.29.55:935][291]EditorErrors: Warning: No assets to check in!
+[2023.02.27-16.32.58:763][756]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HCLevel" FILE="V:/Unreal-CW2-Git2/ChallengeWeek2/CW2/Content/HCLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.27-16.32.58:782][756]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2023.02.27-16.32.58:861][756]LogSavePackage: Moving 'V:/Unreal-CW2-Git2/ChallengeWeek2/CW2/Saved/HCLevelF12721A84E92F4BBCD809E88041FEC01.tmp' to 'V:/Unreal-CW2-Git2/ChallengeWeek2/CW2/Content/HCLevel.umap'
+[2023.02.27-16.32.58:963][756]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HCLevel_BuiltData" FILE="V:/Unreal-CW2-Git2/ChallengeWeek2/CW2/Content/HCLevel_BuiltData.uasset" SILENT=true
+[2023.02.27-16.32.59:056][756]LogSavePackage: Moving 'V:/Unreal-CW2-Git2/ChallengeWeek2/CW2/Saved/HCLevel_BuiltData56371F6047F220311BF439BA5B5CA32B.tmp' to 'V:/Unreal-CW2-Git2/ChallengeWeek2/CW2/Content/HCLevel_BuiltData.uasset'
+[2023.02.27-16.32.59:198][756]SourceControl: Error: The following paths are ignored by one of your .gitignore files:
+[2023.02.27-16.32.59:198][756]SourceControl: Error: CW2/Content/HCLevel_BuiltData.uasset
+[2023.02.27-16.32.59:198][756]SourceControl: Error: hint: Use -f if you really want to add them.
+[2023.02.27-16.32.59:198][756]SourceControl: Error: hint: Turn this message off by running
+[2023.02.27-16.32.59:198][756]SourceControl: Error: hint: "git config advice.addIgnoredFile false"
+[2023.02.27-16.32.59:215][756]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.27-16.32.59:215][756]LogContentValidation: Display: Validating World /Game/HCLevel.HCLevel
+[2023.02.27-16.32.59:215][756]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/HCLevel_BuiltData.HCLevel_BuiltData
+[2023.02.27-16.33.00:402][880]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.02.27-16.33.00:527][880]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/landscapeMat" FILE="V:/Unreal-CW2-Git2/ChallengeWeek2/CW2/Content/landscapeMat.uasset" SILENT=true
+[2023.02.27-16.33.00:529][880]LogSavePackage: Moving 'V:/Unreal-CW2-Git2/ChallengeWeek2/CW2/Saved/landscapeMat993AFDA14720CF81D223E998899A3266.tmp' to 'V:/Unreal-CW2-Git2/ChallengeWeek2/CW2/Content/landscapeMat.uasset'
+[2023.02.27-16.33.00:539][880]AssetCheck: New page: Asset Save: landscapeMat
+[2023.02.27-16.33.00:539][880]LogContentValidation: Display: Validating Material /Game/landscapeMat.landscapeMat
+[2023.02.27-16.33.04:012][166]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content' is outside repository at 'V:/Unreal-CW2-Git2/ChallengeWeek2'
+[2023.02.27-16.33.04:012][166]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'V:/Unreal-CW2-Git2/ChallengeWeek2'
+[2023.02.27-16.33.04:012][166]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'V:/Unreal-CW2-Git2/ChallengeWeek2'
+[2023.02.27-16.33.04:012][166]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at 'V:/Unreal-CW2-Git2/ChallengeWeek2'
+[2023.02.27-16.33.04:012][166]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'V:/Unreal-CW2-Git2/ChallengeWeek2'
+[2023.02.27-16.33.04:012][166]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'V:/Unreal-CW2-Git2/ChallengeWeek2'
+[2023.02.27-16.33.04:012][166]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'V:/Unreal-CW2-Git2/ChallengeWeek2'
+[2023.02.27-16.33.04:012][166]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'V:/Unreal-CW2-Git2/ChallengeWeek2'
+[2023.02.27-16.33.04:012][166]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'V:/Unreal-CW2-Git2/ChallengeWeek2'
+[2023.02.27-16.33.04:012][166]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'V:/Unreal-CW2-Git2/ChallengeWeek2'
+[2023.02.27-16.33.04:012][166]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'V:/Unreal-CW2-Git2/ChallengeWeek2'
+[2023.02.27-16.33.04:012][166]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'V:/Unreal-CW2-Git2/ChallengeWeek2'
+[2023.02.27-16.33.04:012][166]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'V:/Unreal-CW2-Git2/ChallengeWeek2'
+[2023.02.27-16.33.04:012][166]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'V:/Unreal-CW2-Git2/ChallengeWeek2'
+[2023.02.27-16.33.04:012][166]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'V:/Unreal-CW2-Git2/ChallengeWeek2'
+[2023.02.27-16.33.04:012][166]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'V:/Unreal-CW2-Git2/ChallengeWeek2'
+[2023.02.27-16.33.04:012][166]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'V:/Unreal-CW2-Git2/ChallengeWeek2'
+[2023.02.27-16.33.04:012][166]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'V:/Unreal-CW2-Git2/ChallengeWeek2'
+[2023.02.27-16.33.04:012][166]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'V:/Unreal-CW2-Git2/ChallengeWeek2'
+[2023.02.27-16.33.04:012][166]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'V:/Unreal-CW2-Git2/ChallengeWeek2'
+[2023.02.27-16.33.04:012][166]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'V:/Unreal-CW2-Git2/ChallengeWeek2'
+[2023.02.27-16.33.04:012][166]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'V:/Unreal-CW2-Git2/ChallengeWeek2'
+[2023.02.27-16.33.04:012][166]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'V:/Unreal-CW2-Git2/ChallengeWeek2'
+[2023.02.27-16.33.04:012][166]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'V:/Unreal-CW2-Git2/ChallengeWeek2'
+[2023.02.27-16.33.04:012][166]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'V:/Unreal-CW2-Git2/ChallengeWeek2'
+[2023.02.27-16.33.04:012][166]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'V:/Unreal-CW2-Git2/ChallengeWeek2'
+[2023.02.27-16.33.04:309][166]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HCLevel" FILE="V:/Unreal-CW2-Git2/ChallengeWeek2/CW2/Content/HCLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.27-16.33.04:324][166]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.02.27-16.33.04:381][166]LogSavePackage: Moving 'V:/Unreal-CW2-Git2/ChallengeWeek2/CW2/Saved/HCLevel8B98D43D4D05CC41CFEC5AA1CE0753D1.tmp' to 'V:/Unreal-CW2-Git2/ChallengeWeek2/CW2/Content/HCLevel.umap'
+[2023.02.27-16.33.04:387][166]LogFileHelpers: Saving map 'HCLevel' took 0.079
+[2023.02.27-16.33.04:387][166]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/landscapeMat" FILE="V:/Unreal-CW2-Git2/ChallengeWeek2/CW2/Content/landscapeMat.uasset" SILENT=true
+[2023.02.27-16.33.04:389][166]LogSavePackage: Moving 'V:/Unreal-CW2-Git2/ChallengeWeek2/CW2/Saved/landscapeMatCA9231B841135492664845962CE323A5.tmp' to 'V:/Unreal-CW2-Git2/ChallengeWeek2/CW2/Content/landscapeMat.uasset'
+[2023.02.27-16.33.47:210][166]LogSlate: Window 'Submit Files' being destroyed
+[2023.02.27-16.33.47:487][166]SourceControl: Error: error: pathspec 'V:/Unreal-CW2-Git2/ChallengeWeek2/CW2/Content/hcLevel.umap' did not match any file(s) known to git
+[2023.02.27-16.33.47:537][167]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.27-16.33.47:537][167]LogContentValidation: Display: Validating Material /Game/landscapeMat.landscapeMat
+[2023.02.27-16.33.47:537][167]LogContentValidation: Display: Validating World /Game/HCLevel.HCLevel
